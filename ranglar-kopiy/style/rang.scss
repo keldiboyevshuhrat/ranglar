@@ -1,0 +1,459 @@
+ 
+ *{
+    padding: 0;
+    margin: 0;
+ }
+ 
+ 
+ .ranglar-yozuv{
+    width:500px;
+    height: auto;
+    // border: 2px solid black;
+    margin: auto;
+    padding-top: 100px;
+
+
+    h1{
+        text-align: center;
+        font-size: 100px;
+        font-family: 'Courier New', Courier, monospace;
+    //    bACKGROUND:linear-gradient(black,purple,beige,white,pink,yellow,blue,aqua,red,);
+    background-color: aqua;
+   
+    }
+ }
+ 
+ 
+ 
+ 
+ 
+ .ranglar {
+
+    width: 1000px;
+    height: 300px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    background:linear-gradient(100deg,black,purple,beige,white,pink,yellow,blue,aqua,red,);
+    box-shadow: 20px 20px 15px black;
+
+
+
+
+    .ranglar1 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: red;
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar1:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+    }
+
+    //////////////////////////////////////////
+
+
+
+    .ranglar2 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: aqua;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar2:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color:red;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+    }
+
+
+
+
+    .ranglar3 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: blue;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar3:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+    }
+
+
+
+
+
+
+
+
+    .ranglar4 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color:green;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar4:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+    }
+
+
+
+
+
+
+
+
+    .ranglar5 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: yellow;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar5:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+    }
+
+
+
+
+
+
+    .ranglar6 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: pink;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar6:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+
+
+    }
+
+
+
+
+
+
+    .ranglar7 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: white;
+        
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar7:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+    
+    .ranglar8 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: beige;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar8:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+
+
+    }
+
+
+
+
+
+
+    .ranglar9 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: black ;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar9:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .ranglar10 {
+        width: 100px;
+        height: 200px;
+        border: 2px solid black;
+        background-color: purple;
+
+
+        h1 {
+            display: none;
+        }
+
+
+    }
+
+    .ranglar10:hover {
+        width: 250px;
+        height: 300px;
+
+        h1 {
+            // font-size: 30px;
+            color: aqua;
+            width: auto;
+            height: auto;
+            // border:2px solid black;
+            rotate: 90deg;
+            margin-top: 150px;
+            display: flex;
+            // margin: auto;
+
+        }
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+}
